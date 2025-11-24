@@ -15,6 +15,10 @@ https://github.com/drdeford/MATH144_PDP/blob/main/desc_length.png
 
 ![Histogram of description lengths of books in my library](https://github.com/drdeford/MATH144_PDP/blob/main/desc_length.png)
 
+We made a new figure comparing number of pages to type of book in the library: 
+
+![Plot of boxplots of pages vs. type](https://github.com/drdeford/MATH144_PDP/blob/main/pages_by_type.png)
+
 
 ## Logistic Regression
 
