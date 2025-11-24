@@ -5,3 +5,5 @@
 Example figure: 
 
 https://github.com/drdeford/MATH144_PDP/blob/main/desc_length.png
+
+![Histogram of description lengths of books in my library](https://github.com/drdeford/MATH144_PDP/blob/main/desc_length.png)
