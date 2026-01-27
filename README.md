@@ -1,7 +1,7 @@
 # Personal Library Book Analysis
 
 ## Introduction
-For this personal dataset project I decided to explore the books in my library. The initial data came from scanning all of the books and scraping some data from their ISBN codes through the Android Book Catalogue app. The initial DeFordBooks.csv was exported from the app directly. 
+For this personal dataset project I decided to explore the books in my home library. The initial data came from scanning all of the books and scraping some data from their ISBN codes through the Android Book Catalogue app. The initial DeFordBooks.csv was exported from the app directly. 
 
 ## Data Processing
 
